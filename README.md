@@ -1,7 +1,7 @@
 # Netflix-Movie-and-TV-Shows-Clustering
 Almabetter verified project
 
-![Netflix-logo-red-black-png](https://user-images.githubusercontent.com/114014034/217719820-937a2486-b5c4-4bd5-b83f-6af07f2666e2.png)
+![download](https://user-images.githubusercontent.com/111486947/220613035-014675d8-b709-4745-b14e-6aca5396c563.gif)
 
 # 1. Introduction:
 Netflix, headquartered in California, is a popular subscription streaming service and production firm. According to Statista, Netflix had approximately 220.67 million paid subscribers worldwide as of the second quarter of 2022. It is crucial that they effectively cluster the shows that are hosted on their platform in order to enhance the user experience for its subscribers.
